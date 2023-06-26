@@ -19,8 +19,8 @@ Circular Playground Runner is a web-based application developed using PHP, MySQL
 ## Installation
 
 1. Clone this repository to your web server or local machine.
-2. Import the database schema using the provided SQL file (`database.sql`).
-3. Configure the database connection settings in the `config.php` file.
+2. Import the database schema using the provided SQL file (`running_events_db.sql`).
+3. Configure the database connection settings in the `connection.php` file.
 4. Start your web server and ensure PHP is properly configured.
 5. Access the application through your web browser.
 
